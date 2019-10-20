@@ -1,4 +1,4 @@
-# Problem
+# Introduction
  Sparkify has so much data collected on songs and user activity on their music app and wants to perform analysis on their users and the songs they are playing. Currently, their data is stored in json format in two set of files, `song_data` and `log_data`. They current architecture does not allow them to do the analysis effectively.
  
 # Solution
